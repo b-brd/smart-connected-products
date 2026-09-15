@@ -1,8 +1,8 @@
 # Luwte: design visuals
 
-AI-generated concept visuals of the Luwte sensor unit and how it sits next to an awning.
+AI-generated concept visuals of the Luwte sensor unit and how it sits next to an awning. They show the intended **look**, not exact engineering: dimensions and parts come from [../proposal.md](../proposal.md) and [../materials.md](../materials.md).
 
-> **Not committed yet:** `luwte-awning-scene.png`, `luwte-awning-retracted.png` and `luwte-gust-retract.mp4`. In those, the unit came out about 2.5× too large (a ~39 cm box instead of 15 cm, measured against the bricks). They will be regenerated at the correct scale and committed then. They show the intended **look**, not exact engineering: dimensions and parts come from [../proposal.md](../proposal.md) and [../materials.md](../materials.md).
+> **Not committed yet:** `luwte-awning-scene.png`, `luwte-awning-retracted.png` and `luwte-gust-retract.mp4`. In those, the unit came out about 2.5× too large (a ~39 cm box instead of 15 cm, measured against the bricks). They will be regenerated at the correct scale and committed then.
 
 | File | What it is | Made with |
 |---|---|---|
