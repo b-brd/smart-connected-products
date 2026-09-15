@@ -2,11 +2,14 @@
 
 Coursework for the Fontys elective *Smart Connected Products* (SCP, 5 EC).
 
+**Project website:** <https://b-brd.github.io/smart-connected-products/>
+
 ## Repository layout
 
 ```
 .
 ├── README.md
+├── docs/                   # project website (GitHub Pages): index.html + web-sized images and animation
 ├── project/                # our project: Luwte, a wind- and forecast-aware smart awning
 │   ├── proposal.md
 │   ├── materials.md
