@@ -1,0 +1,9 @@
+# Course material (Fontys slides/handouts, ~120 MB, contains other students' names).
+# Kept locally only: this repository is public.
+course/
+
+# macOS
+.DS_Store
+
+# Office lock files
+~$*
